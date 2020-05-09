@@ -19,6 +19,10 @@ The first iterestion is directly from the answer to: https://stackoverflow.com/q
 	- morphToMany() 
 	- morphByMany() : reverse of morphToMany
 
+## Collaboration Guide
+
+- read `doc-laravel-eloquent.md` to get on the same page about what functionalities we are trying to implement.
+
 ## Why
 
 **developers migrating from ActiveRecord (ruby) and Laravel Eloquent (PHP) who use Polymorphism in their model architectures are disparate for such a feature!**
