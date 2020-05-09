@@ -13,10 +13,10 @@ The first iterestion is directly from the answer to: https://stackoverflow.com/q
 	- morphToMany() : polymorphism with a separate joint table
 - Version 1.0 | creating full set of features:
 	- morphOne()
-	- morphMany() [morphOne but with possibility for more than one association]
-	- morphTO() [reverse of morphOne and morphMany]
+	- morphMany() : morphOne but with possibility for more than one association
+	- morphTO() : reverse of morphOne and morphMany
 	- morphToMany() 
-	- morphByMany() [reverse of morphToMany]
+	- morphByMany() : reverse of morphToMany
 
 ## Why
 
