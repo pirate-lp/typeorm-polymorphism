@@ -1,4 +1,4 @@
-# Typeorm Polymorphism (feature)
+# TypeORM Polymorphism (feature)
 
 The goal of this repository is to develop **Polymorphism** feature for [TypeORM](https://typeorm.io).
 
