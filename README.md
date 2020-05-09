@@ -8,8 +8,9 @@ The first iterestion is directly from the answer to: https://stackoverflow.com/q
 
 ## Road-map
 
-- Version 0.1 | creating two basic features:
+- Version 0.1 | most basic realization of polymorphism:
 	- morphOne() : polymorphism from inside the same table
+- Version 0.2 | most advance realization of polymorphism:
 	- morphToMany() : polymorphism with a separate joint table
 - Version 1.0 | creating full set of features:
 	- morphOne()
